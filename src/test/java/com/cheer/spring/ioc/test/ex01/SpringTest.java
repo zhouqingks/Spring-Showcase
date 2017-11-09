@@ -6,7 +6,7 @@
  * 修改时间：2017年11月8日
  */
 
-package com.cheer.spring.iocex01.test;
+package com.cheer.spring.ioc.test.ex01;
 
 import org.junit.Assert;
 import org.junit.Test;
